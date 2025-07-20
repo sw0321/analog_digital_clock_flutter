@@ -5,7 +5,7 @@
 アナログ時計が持つ針の動きや盤面の美しさと、デジタル時計の視認性を融合させた、レトロで遊び心のあるデスクトップ時計アプリケーションです。Flutterを使用して構築されており、高度なカスタマイズ機能であなただけの時計を作成できます。
 
 ## 📸 スクリーンショット
-*(ここにアプリのスクリーンショットまたはGIFを挿入してください)*
+![alt text](image.png)
 
 ![App Screenshot](https://via.placeholder.com/800x600.png?text=App+Screenshot+Here)
 
@@ -52,7 +52,7 @@
 
 2.  **リポジトリをクローン**:
     ```sh
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+    git clone https://github.com/sw0321/analog_digital_clock_flutter.git
     cd YOUR_REPOSITORY
     ```
 
